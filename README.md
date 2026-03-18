@@ -23,10 +23,10 @@
 
 I'm a **Data Science MSc candidate** at Kingston University London with **7+ years of professional experience** spanning machine learning, explainable AI, NLP, data engineering, and full-stack analytics. I'm passionate about building interpretable, data-driven systems that make a real-world impact.
 
-- 🔬 **Dissertation:** *Fake News Detection Using Large Language Models & Explainable AI (SHAP & LIME)* — applying BERT, RoBERTa, and BigBird to the LIAR dataset
+- 🔬 **Dissertation:** *Fake News Detection Using Large Language Models & Explainable AI (SHAP & LIME)* - applying BERT, RoBERTa, and BigBird to the LIAR dataset
 - 📊 Built a **Montgomery County Crime Analytics Dashboard** using Plotly Dash
 - 🛠️ Developed a **CV Screening System** using TF-IDF & Cosine Similarity
-- 🌐 Experienced in frontend development — responsive websites, luxury UI rebuilds
+- 🌐 Experienced in frontend development - responsive websites, luxury UI rebuilds
 - 🏆 Open to Data Science, AI/ML, and Analytics roles in the UK
 
 ---
@@ -81,11 +81,10 @@ I'm a **Data Science MSc candidate** at Kingston University London with **7+ yea
 
 | Project | Description | Tech |
 |---|---|---|
-| 🧠 [Fake News Detection with XAI](https://sheikhkmmtahmid.github.io/) | BERT, RoBERTa & BigBird fine-tuned on LIAR dataset with SHAP & LIME explainability | `Python` `HuggingFace` `SHAP` `LIME` |
-| 📊 [Crime Analytics Dashboard](https://sheikhkmmtahmid.github.io/) | Montgomery County crime data visualised with Plotly Dash, multi-filter interactive UI | `Python` `Plotly Dash` `Pandas` |
-| 📄 [CV Screening System](https://sheikhkmmtahmid.github.io/) | Automated candidate ranking using TF-IDF vectorisation and cosine similarity | `Python` `scikit-learn` `NLP` |
-| ✈️ UK Airport Punctuality Analytics | Star-schema data warehouse for 24-month Oracle APEX punctuality statistics (Jan 2023–Dec 2024) | `SQL` `Oracle APEX` `ETL` |
-| 🌐 Web Development Projects | Full responsive websites — Maestro Solutions ISP, Core Spun Apparel luxury rebuild | `HTML` `CSS` `JavaScript` |
+| 🧠 [Fake News Detection with XAI](https://github.com/sheikhkmmtahmid/Fake-News-Detection-Systerm-With-Explainable-AI) | BERT, RoBERTa & BigBird fine-tuned on LIAR dataset with SHAP & LIME explainability | `Python` `HuggingFace` `SHAP` `LIME` |
+| 📊 [Crime Analytics Dashboard](https://github.com/sheikhkmmtahmid/montgomery-county-crime-analytics) | Montgomery County crime data visualised with Plotly Dash, multi-filter interactive UI | `Python` `Plotly Dash` `Pandas` |
+| 🗺️ [HMLR Boundary Extraction & GeoPackage Conversion](https://github.com/sheikhkmmtahmid/Image-Processing-for-HMLR-2025-Data-Scientist-Challenge) | Land Registry boundary extraction, spatial analysis and GeoPackage conversion | `Python` `GeoPandas` `Shapely` `GIS` |
+| 🌐 Web Development Projects | Full responsive websites - Core Spun Apparel luxury rebuild | `HTML` `CSS` `JavaScript` |
 
 ---
 
@@ -106,26 +105,26 @@ I'm a **Data Science MSc candidate** at Kingston University London with **7+ yea
 
 ## 🎓 Education
 
-🎓 **MSc Data Science** — Kingston University London *(Jan 2025 – Present)*
-🎓 **MBA Business Administration** — Cardiff Metropolitan University *(2015–2016)*
-🎓 **MSc Electronics & Computer Engineering** — University of Birmingham *(2013–2014)*
-🎓 **BSc Computer Engineering** *(Minor in Management)* — Abu Dhabi University *(2009–2013)*
+🎓 **MSc Data Science** - Kingston University London *(Jan 2025 – Present)*
+🎓 **MBA Business Administration** - Cardiff Metropolitan University *(2015–2016)*
+🎓 **MSc Electronics & Computer Engineering** - University of Birmingham *(2013–2014)*
+🎓 **BSc Computer Engineering** *(Minor in Management)* - Abu Dhabi University *(2009–2013)*
 
 ---
 
 ## 💼 Work Experience
 
-**Business Development Manager** — Ideal PCO Licence, UK *(Mar 2023 – Jan 2025)*
+**Business Development Manager** - Ideal PCO Licence, UK *(Mar 2023 – Jan 2025)*
 - Analysed sales and market data using Python, SQL, and Excel to guide decisions and improve forecasting
 - Contributed to 15% revenue growth through data-driven strategies; increased annual revenue by 35% via data-informed partnerships
 - Delivered 50+ client presentations backed by analytical insights, driving 40% more repeat business
 
-**Senior Associate** — Quantanite (Former Taskeater), Bangladesh *(Jul 2021 – Aug 2022)*
+**Senior Associate** - Quantanite (Former Taskeater), Bangladesh *(Jul 2021 – Aug 2022)*
 - Achieved 100% on-time delivery and 98%+ quality by tracking team KPIs and implementing data-informed improvements
 - Reduced new hire ramp-up time by 20% through data-driven training design
 - Awarded **Best Employee of the Year 2021** for data-driven leadership and operational excellence
 
-**Associate** — Quantanite (Former Taskeater), Bangladesh *(Jun 2017 – Jul 2021)*
+**Associate** - Quantanite (Former Taskeater), Bangladesh *(Jun 2017 – Jul 2021)*
 - Processed and validated 5K+ weekly fashion industry records with high accuracy
 - Boosted qualified leads by 15% through data trend analysis; maintained error rates under 4% via quality checks
 
