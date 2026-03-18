@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sheikh%20Khairul%20Momin%20Mohammad%20Tahmid&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MSc%20Data%20Science%20%7C%20ML%20Engineer%20%7C%20Explainable%20AI&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sheikh%20Khairul%20Momin%20Mohammad%20Tahmid&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MSc%20Data%20Science%20%7C%20Aspiring%20Data%20Scientist%20%7C%20Explainable%20AI&descAlignY=58&descSize=16" width="100%" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Data+Scientist+%F0%9F%A4%96;ML+%26+Explainable+AI+Researcher+%F0%9F%94%AC;NLP+%26+LLM+Practitioner+%F0%9F%A7%A0;Full-Stack+Data+%26+Web+Developer+%F0%9F%92%BB;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Data+Scientist+%F0%9F%A4%96;ML+%26+Explainable+AI+Researcher+%F0%9F%94%AC;NLP+%26+LLM+Practitioner+%F0%9F%A7%A0;Aspiring+Data+Scientist+%F0%9F%9A%80;Open+to+Opportunities+%F0%9F%93%A3" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -106,11 +106,8 @@ I'm a **Data Science MSc candidate** at Kingston University London with **7+ yea
 ## 🎓 Education
 
 🎓 **MSc Data Science** - Kingston University London *(Jan 2025 – Present)*
-
 🎓 **MBA Business Administration** - Cardiff Metropolitan University *(2015–2016)*
-
 🎓 **MSc Electronics & Computer Engineering** - University of Birmingham *(2013–2014)*
-
 🎓 **BSc Computer Engineering** *(Minor in Management)* - Abu Dhabi University *(2009–2013)*
 
 ---
