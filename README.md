@@ -11,7 +11,8 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-khairul-momin-mohammad-tahmid/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&logo=githubpages&logoColor=white)](https://sheikhkmmtahmid.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&logo=githubpages&logoColor=white)](https://skmmt.rootexception.com/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white)](https://sheikhkmmtahmid.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheikh.k.m.m.tahmid@gmail.com)
 [![Location](https://img.shields.io/badge/London%2C%20UK-00BFFF?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 
@@ -81,6 +82,8 @@ I'm a **Data Science MSc candidate** at Kingston University London with **7+ yea
 
 | Project | Description | Tech |
 |---|---|---|
+| 💹 [AI Portfolio Stress Testing Platform](https://github.com/sheikhkmmtahmid/AI-Portfolio-Stress-Testing-Platform) | Full-stack quantitative finance app stress testing multi-asset portfolios across 20+ macro scenarios using ElasticNet, XGBoost, GMM regime detection, SHAP explainability, and a live FastAPI dashboard with auto-updating market & FX data | `Python` `XGBoost` `SHAP` `FastAPI` `scikit-learn` `yfinance` |
+| 🎯 [AI Lead Quality Scoring & Spam Detection](https://github.com/sheikhkmmtahmid/AI-Lead-Quality-Scoring-Spam-Detection-using-Hybrid-NLP-and-XGBoost) | Production-ready hybrid NLP system cascading fine-tuned BERT & RoBERTa (99.4% accuracy) with an XGBoost regressor and live email/DNS validation to score inbound leads 0-100 with SHAP-driven explanations | `Python` `BERT` `RoBERTa` `XGBoost` `SHAP` `FastAPI` `HuggingFace` |
 | 🧠 [Fake News Detection with XAI](https://github.com/sheikhkmmtahmid/Fake-News-Detection-Systerm-With-Explainable-AI) | BERT, RoBERTa & BigBird fine-tuned on LIAR dataset with SHAP & LIME explainability | `Python` `HuggingFace` `SHAP` `LIME` |
 | 📊 [Crime Analytics Dashboard](https://github.com/sheikhkmmtahmid/montgomery-county-crime-analytics) | Montgomery County crime data visualised with Plotly Dash, multi-filter interactive UI | `Python` `Plotly Dash` `Pandas` |
 | 🗺️ [HMLR Boundary Extraction & GeoPackage Conversion](https://github.com/sheikhkmmtahmid/Image-Processing-for-HMLR-2025-Data-Scientist-Challenge) | Land Registry boundary extraction, spatial analysis and GeoPackage conversion | `Python` `GeoPandas` `Shapely` `GIS` |
@@ -137,7 +140,8 @@ I'm a **Data Science MSc candidate** at Kingston University London with **7+ yea
 📧 [sheikh.k.m.m.tahmid@gmail.com](mailto:sheikh.k.m.m.tahmid@gmail.com) &nbsp;|&nbsp; 📞 +44 7944 496177 &nbsp;|&nbsp; 📍 London, United Kingdom
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-khairul-momin-mohammad-tahmid/)
-[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-2c5364?style=for-the-badge&logo=githubpages&logoColor=white)](https://sheikhkmmtahmid.github.io/)
+[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-2c5364?style=for-the-badge&logo=githubpages&logoColor=white)](https://skmmt.rootexception.com/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white)](https://sheikhkmmtahmid.github.io/)
 
 </div>
 
