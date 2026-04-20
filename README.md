@@ -82,12 +82,14 @@ I'm a **Data Science MSc candidate** at Kingston University London with **7+ yea
 
 | Project | Description | Tech |
 |---|---|---|
+| ⚖️ [Contract Intelligence & Power Imbalance Platform](https://github.com/sheikhkmmtahmid/contract-intelligence-platform) | Legal AI system that ingests commercial contracts, classifies every clause across a 100-type taxonomy using a LegalBERT + Legal-RoBERTa ensemble (F1 0.606), detects anomalous language via Isolation Forest + autoencoder, scores bilateral power imbalance -100 to +100, and explains every prediction at token level with SHAP | `Python` `LegalBERT` `Legal-RoBERTa` `SHAP` `FastAPI` `PyTorch` `UMAP` |
 | 💹 [AI Portfolio Stress Testing Platform](https://github.com/sheikhkmmtahmid/AI-Portfolio-Stress-Testing-Platform) | Full-stack quantitative finance app stress testing multi-asset portfolios across 20+ macro scenarios using ElasticNet, XGBoost, GMM regime detection, SHAP explainability, and a live FastAPI dashboard with auto-updating market & FX data | `Python` `XGBoost` `SHAP` `FastAPI` `scikit-learn` `yfinance` |
 | 🎯 [AI Lead Quality Scoring & Spam Detection](https://github.com/sheikhkmmtahmid/AI-Lead-Quality-Scoring-Spam-Detection-using-Hybrid-NLP-and-XGBoost) | Production-ready hybrid NLP system cascading fine-tuned BERT & RoBERTa (99.4% accuracy) with an XGBoost regressor and live email/DNS validation to score inbound leads 0-100 with SHAP-driven explanations | `Python` `BERT` `RoBERTa` `XGBoost` `SHAP` `FastAPI` `HuggingFace` |
 | 🧠 [Fake News Detection with XAI](https://github.com/sheikhkmmtahmid/Fake-News-Detection-Systerm-With-Explainable-AI) | BERT, RoBERTa & BigBird fine-tuned on LIAR dataset with SHAP & LIME explainability | `Python` `HuggingFace` `SHAP` `LIME` |
 | 📊 [Crime Analytics Dashboard](https://github.com/sheikhkmmtahmid/montgomery-county-crime-analytics) | Montgomery County crime data visualised with Plotly Dash, multi-filter interactive UI | `Python` `Plotly Dash` `Pandas` |
 | 🗺️ [HMLR Boundary Extraction & GeoPackage Conversion](https://github.com/sheikhkmmtahmid/Image-Processing-for-HMLR-2025-Data-Scientist-Challenge) | Land Registry boundary extraction, spatial analysis and GeoPackage conversion | `Python` `GeoPandas` `Shapely` `GIS` |
 | 🌐 Web Development Projects | Full responsive websites - Core Spun Apparel luxury rebuild | `HTML` `CSS` `JavaScript` |
+
 
 ---
 
