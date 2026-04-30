@@ -22,7 +22,7 @@
 
 ## 👋 About Me
 
-I'm a **Data Science MSc candidate** at Kingston University London with **7+ years of professional experience** spanning machine learning, explainable AI, NLP, data engineering, and full-stack analytics. I'm passionate about building interpretable, data-driven systems that make a real-world impact.
+I'm a **Data Scientist, completed my MSc** from Kingston University London with **7+ years of professional experience** spanning machine learning, explainable AI, NLP, data engineering, and full-stack analytics. I'm passionate about building interpretable, data-driven systems that make a real-world impact.
 
 - 🔬 **Dissertation:** *Fake News Detection Using Large Language Models & Explainable AI (SHAP & LIME)* - applying BERT, RoBERTa, and BigBird to the LIAR dataset
 - 📊 Built a **Montgomery County Crime Analytics Dashboard** using Plotly Dash
