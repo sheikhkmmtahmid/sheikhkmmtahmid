@@ -113,7 +113,7 @@ I'm a **Data Scientist, completed my MSc** from Kingston University London with 
 
 ## 🎓 Education
 
-🎓 **MSc Data Science** - Kingston University London *(Jan 2025 – Present)*
+🎓 **MSc Data Science** - Kingston University London *(Jan 2025 – Mar 2026)*
 🎓 **MBA Business Administration** - Cardiff Metropolitan University *(2015–2016)*
 🎓 **MSc Electronics & Computer Engineering** - University of Birmingham *(2013–2014)*
 🎓 **BSc Computer Engineering** *(Minor in Management)* - Abu Dhabi University *(2009–2013)*
