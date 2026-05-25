@@ -98,16 +98,12 @@ I'm a **Data Scientist, completed my MSc** from Kingston University London with 
 ---
 
 ## 📈 GitHub Stats
-
 <div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=sheikhkmmtahmid&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikhkmmtahmid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sheikhkmmtahmid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sheikhkmmtahmid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhkmmtahmid&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=sheikhkmmtahmid&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
